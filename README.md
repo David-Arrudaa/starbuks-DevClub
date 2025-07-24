@@ -37,7 +37,8 @@ Para visualizar o projeto localmente, siga os passos abaixo:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **David Arruda**.
+**David Arruda**.
+
 
 <p align="left">
   <a href="[LINK DO SEU LINKEDIN]" target="_blank">
